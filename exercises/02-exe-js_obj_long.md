@@ -47,7 +47,7 @@ Use the dot notation to add the new key in the user object.
 Now, we have to create a library object and add the only user that we have right now. Again, we will have several users in the Library, so we could use an array to store all of them.
 
 ```javascript
-const library = [];
+const library = {};
 ```
 
 So, we have to do three different things here:
